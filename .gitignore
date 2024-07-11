@@ -153,3 +153,4 @@ cython_debug/
 
 # project-specific
 *.DS_Store
+data/re-nlg_0-10000.json
