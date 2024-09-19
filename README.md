@@ -11,9 +11,6 @@ Our findings suggest that addressing disagreements through *metalinguistic negot
 
 There are two principal contributions of this work: first, the definition of an approach to the representation of meaning using a knowledge-enhanced LLM; and second, the use of that approach to provide experimental evidence that metalinguistic disagreement does occur between knowledge graphs and knowledge-enhanced LLMs. This repository contains the data and code involved in our evaluation of this approach.
 
-## Paper
-Accessible on the [EasyChair conference page](https://easychair.org/my/conference?conf=ekaw2024) to assigned reviewers of the EKAW-24 program committee.
-
 ## License
 MIT.
 
